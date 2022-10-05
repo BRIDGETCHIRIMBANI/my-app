@@ -17,7 +17,13 @@ git add
 git commit
 git push --set-upstream origin update_logo
 
+#7
+git request-pull
 
+#8
+git merge
+
+https://github.com/BRIDGETCHIRIMBANI/my-app
 
 
 
